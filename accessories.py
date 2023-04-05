@@ -70,7 +70,7 @@ class LeakSensor(Accessory):
 
 
 class SmokeSensor(Accessory):
-    """Leak Sensor simplest configuration"""
+    """Smoke Sensor simplest configuration"""
 
     category = CATEGORY_SENSOR
 
@@ -89,7 +89,7 @@ class SmokeSensor(Accessory):
             self.sensor_char.set_value(0)
 
 class CarbonDioxideSensor(Accessory):
-    """Leak Sensor simplest configuration"""
+    """Carbon Dioxide Sensor simplest configuration"""
 
     category = CATEGORY_SENSOR
 
