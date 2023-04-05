@@ -4,8 +4,8 @@ Accessory = namedtuple("Accessory", ("name", "number", "accesory_type"))
 
 class Config:
     # Integra values
-    usercode = "7901"
-    host = "192.168.177.177"
+    usercode = "1234"
+    host = "192.168.1.1"
     port = 7094
     encoding = "cp1250"
 
