@@ -3,7 +3,7 @@ HAP-Python (https://github.com/ikalchev/HAP-python) accessories implementation f
 
 Not intended for commercial use.
 
-##Usage
+## Usage
 
 Please make sure your integra ETHM-1 module has enabled Integration setting (port 7094) - that can be achieved through DLOADX.
 
